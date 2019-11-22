@@ -9817,10 +9817,10 @@ body,
 }
 
 .brand-link {
-  padding: 1.5rem .5rem;
-  font-size: 1.60rem;
+  padding: 0.8125rem 0.5rem;
+  font-size: 1.25rem;
   display: block;
-  line-height: 1.3;
+  line-height: 1.5;
   white-space: nowrap;
 }
 
@@ -9844,9 +9844,9 @@ body,
   line-height: .8;
   max-height: 34px;
   width: auto;
-  margin-left: 0.1rem;
+  margin-left: .8rem;
   margin-right: .5rem;
-  margin-top: -7px;
+  margin-top: -3px;
 }
 
 /**
